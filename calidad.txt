@@ -1,19 +1,19 @@
 Calidad en el Software
-
-Dentro del contexto de IngenierÌa de Software, se tomar· la definiciÛn de calidad en el software propuesta por la organizaciÛn internacional de 
-est·ndares (ISO/IEC DEC 9126): La totalidad de caracterÌsticas de un producto de software que tienen como habilidad, satisfacer necesidades 
-explÌcitas o implÌcitas. Otra definiciÛn bastante completa de calidad en el software es la que se presenta m·s adelante [35]: 
+//Emilio Hern√°ndez merida
+Dentro del contexto de Ingenier√≠a de Software, se tomar√° la definici√≥n de calidad en el software propuesta por la organizaci√≥n internacional de 
+est√°ndares (ISO/IEC DEC 9126): La totalidad de caracter√≠sticas de un producto de software que tienen como habilidad, satisfacer necesidades 
+expl√≠citas o impl√≠citas. Otra definici√≥n bastante completa de calidad en el software es la que se presenta m√°s adelante [35]: 
 Se puede decir que el software tiene calidad si cumple o excede las expectativas del usuario en cuanto a:
 
-1. Funcionalidad (que sirva un propÛsito),
+1. Funcionalidad (que sirva un prop√≥sito),
 
-2. EjecuciÛn (que sea pr·ctico),
+2. Ejecuci√≥n (que sea pr√°ctico),
 
 3. Confiabilidad (que haga lo que debe),
 
 4. Disponibilidad (que funcione bajo cualquier circunstancia) y
 
-5. Apoyo, a un costo menor o igual al que el usuario est· dispuesto a pagar.
+5. Apoyo, a un costo menor o igual al que el usuario est√° dispuesto a pagar.
 
-Resumiendo podemos decir, que la calidad de software se refiere a: ìLos factores de un producto 
-de software que contribuyen a la satisfacciÛn completa y total de las necesidades de un usuario u organizaciÛnî.
+Resumiendo podemos decir, que la calidad de software se refiere a: ‚ÄúLos factores de un producto 
+de software que contribuyen a la satisfacci√≥n completa y total de las necesidades de un usuario u organizaci√≥n‚Äù.
